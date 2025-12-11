@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospitalManagment
+build_property.RootNamespace = HospitalManagment
+build_property.ProjectDir = c:\Users\dell\Desktop\Forth-Year\Csharp\C-Sharp_MVC_.NET_Core\Hospital_CRUD\HospitalManagment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\dell\Desktop\Forth-Year\Csharp\C-Sharp_MVC_.NET_Core\Hospital_CRUD\HospitalManagment
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Appoinitments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2luaXRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Appoinitments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2luaXRtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Appoinitments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2luaXRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Appoinitments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2luaXRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Clinics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Clinics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Clinics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Clinics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Perciption/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyY2lwdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Perciption/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyY2lwdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Perciption/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyY2lwdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Perciption/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyY2lwdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Shared/_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/dell/Desktop/Forth-Year/Csharp/C-Sharp_MVC_.NET_Core/Hospital_CRUD/HospitalManagment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e5ppd8yiss

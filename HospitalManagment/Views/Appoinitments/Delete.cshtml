@@ -1,0 +1,27 @@
+﻿@model HospitalManagment.Models.Appoinitment
+
+<div class="container py-5" style="max-width: 500px;">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-danger text-white py-3 rounded-top-4">
+            <h3 class="mb-0 text-center">حذف موعد</h3>
+        </div>
+        <div class="card-body px-4 py-4 text-center">
+            <p class="fs-5 mb-4">هل أنت متأكد من حذف هذا الموعد؟</p>
+
+            <div class="mb-3">
+                <p><strong>التاريخ:</strong> @Model.Date.ToString("yyyy-MM-dd HH:mm")</p>
+                <p><strong>الطبيب:</strong> @Model.Doctor?.Name</p>
+                <p><strong>المريض:</strong> @Model.Patient?.Name</p>
+                <p><strong>العيادة:</strong> @Model.Clinic?.Name</p>
+            </div>
+
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="Id" />
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-danger w-45 py-2 rounded-3 fw-semibold">حذف</button>
+                    <a asp-action="Index" class="btn btn-secondary w-45 py-2 rounded-3 fw-semibold">إلغاء</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

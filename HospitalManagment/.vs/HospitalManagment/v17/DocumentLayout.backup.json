@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\models\\perciption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:models\\perciption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\perciption\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\perciption\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\appoinitments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\appoinitments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\appoinitments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\appoinitments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\controllers\\perciptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:controllers\\perciptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\perciption\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\perciption\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\perciption\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\perciption\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\perciption\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\perciption\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\models\\appoinitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:models\\appoinitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\appoinitments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\appoinitments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\controllers\\appoinitmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:controllers\\appoinitmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\views\\appoinitments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:views\\appoinitments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|c:\\users\\dell\\desktop\\forth-year\\csharp\\c-sharp_mvc_.net_core\\taskhospi\\hospitalmanagment\\migrations\\20251130123820_allmeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E02F0-88D7-4B1E-B7A3-F8AA0CDF6010}|HospitalManagment.csproj|solutionrelative:migrations\\20251130123820_allmeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:24:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Perciption\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Perciption\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:20:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Perciption\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Perciption\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:19:46.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Perciption\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Create.cshtml",
+              "RelativeToolTip": "Views\\Perciption\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:19:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerciptionController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Controllers\\PerciptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerciptionController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Controllers\\PerciptionController.cs",
+              "RelativeToolTip": "Controllers\\PerciptionController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:16:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAADwBAAAAAAAAAAAMwEABAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:48:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appoinitments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Appoinitments\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:45:16.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perciption.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Perciption.cs",
+              "RelativeDocumentMoniker": "Models\\Perciption.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Perciption.cs",
+              "RelativeToolTip": "Models\\Perciption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:30:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Perciption\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Perciption\\Index.cshtml",
+              "RelativeToolTip": "Views\\Perciption\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:18:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appoinitments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Appoinitments\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:42:28.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appoinitments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Appoinitments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:46:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppoinitmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Controllers\\AppoinitmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoinitmentsController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Controllers\\AppoinitmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppoinitmentsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:40:41.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appoinitment.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Appoinitment.cs",
+              "RelativeDocumentMoniker": "Models\\Appoinitment.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Appoinitment.cs",
+              "RelativeToolTip": "Models\\Appoinitment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:28:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appoinitments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Views\\Appoinitments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Appoinitments\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:45:42.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251130123820_allmeg.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Migrations\\20251130123820_allmeg.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130123820_allmeg.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Migrations\\20251130123820_allmeg.cs",
+              "RelativeToolTip": "Migrations\\20251130123820_allmeg.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwD4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:38:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:24:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Forth-Year\\Csharp\\C-Sharp_MVC_.NET_Core\\TaskHospi\\HospitalManagment\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwDkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:23:07.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
